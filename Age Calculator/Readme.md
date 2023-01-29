@@ -9,8 +9,8 @@ To run this code, you will need to have Python and the Tkinter library installed
 ### Prerequisites
 
 You will need to have the following installed in your system:
-1. Python 3.x
-2. Tkinter library
+1. [Python 3.x](https://www.python.org/)
+2. [Tkinter library](https://docs.python.org/3/library/tk.html)
 
 ### How to Use
 
@@ -19,11 +19,6 @@ You will need to have the following installed in your system:
 3. Click on the 'Calculate Age' button.
 4. The result will be displayed in the form of a statement.
 
-### Built With
-
-[Python]([url]https://www.python.org/) - The programming language used
-[Tkinter]([url]https://docs.python.org/3/library/tk.html) - The library used for creating the GUI
-
 #### Author
 Vrutang Shah - 
-[Github Profile]([url](https://github.com/Vrutang-Shah))
+[Github Profile](https://github.com/Vrutang-Shah)
